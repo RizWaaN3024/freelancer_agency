@@ -1,0 +1,47 @@
+.hero_container{
+    width: 1227px;
+    height: 710px;
+    position: relative;
+
+}
+.hero_image{
+    width: 891px;
+    height: 640px;
+    left: 30.73%;
+    right: 7.61%;
+    top:65px;
+    background-image: url('../../assets/hero-image.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.top_img{
+    position: absolute;
+    width: 94px;
+    height: 152.28px;
+    left: 0px;
+    right: 85.78%;
+    top: 74px;
+}
+p .summer_text{
+    font-size: 24px;
+    font-weight:800;
+    position: absolute;
+}
+h1{
+    font-size: 78px;
+    position: absolute;
+    top: 227px;
+    line-height: 77px;
+}
+span{
+    color: #174EE2;
+}
+.hero_text{
+    position: absolute;
+    font-size: 16px;
+    top: 497px;
+    padding-top: 40px;
+    color: #333333;
+}

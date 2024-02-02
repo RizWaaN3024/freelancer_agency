@@ -1,0 +1,35 @@
+nav{
+    width: 1441px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 23px;
+    
+}
+.nav_left{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    
+}
+.nav_logo{
+    width: 185px;
+    height: 35px;
+    padding-top: 9px;
+}
+.ham-logo{
+    width: 20px;
+    height: 14px;
+    padding-top: 9.5px;
+}
+.nav-right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+}
+.nav_icons{
+    display: flex;
+    gap: 16px;
+}
